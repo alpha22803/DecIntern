@@ -1,0 +1,105 @@
+.row3Div {
+     border: 1px solid #e0e0e0;
+     background-color: #FFFFFF;
+     border-radius: .25rem;
+}
+
+.addBtn {
+     border: none;
+     background-color: #db534e;
+     border-radius: .3rem;
+     color: #FFFFFF;
+     font-weight: 500;
+}
+
+.searchBtn {
+     border: none;
+     background-color: #59ba5c;
+     border-radius: .3rem;
+     color: #FFFFFF;
+}
+
+.editBtn {
+     border: none;
+     border-radius: .3rem;
+     color: #FFFFFF;
+     background-color: #59ba5c;
+     padding: .2rem .8rem;
+}
+
+.table-container {
+     height: 11.3rem;
+     overflow-y: auto;
+     scrollbar-width: thin;
+     scrollbar-color: transparent transparent;
+}
+
+.table-container::-webkit-scrollbar {
+     width: 5px;
+}
+
+.table-container::-webkit-scrollbar-thumb {
+     background-color: transparent;
+}
+
+.row3ColHead {
+     font-weight: 600;
+}
+
+.css-1u0lry5-MuiChartsLegend-root {
+     display: none;
+}
+
+.labelF,
+.labelM {
+     position: absolute;
+     background-color: #FFFFFF;
+     font-size: .85rem;
+}
+
+.labelF {
+     top: 1rem;
+     left: 2.5rem;
+}
+
+.labelM {
+     bottom: 1rem;
+     right: 3rem;
+}
+
+.genderIconF {
+     color: #5a33eb;
+     font-size: 1.7rem !important;
+}
+
+.genderIconM {
+     color: #1ebd9d;
+     font-size: 1.7rem !important;
+}
+
+.totalEmpMsg {
+     font-size: .7rem;
+     color: grey;
+}
+
+.even-row {
+     background-color: #f9f9f9 !important;
+}
+
+.odd-row {
+     background-color: #FFFFFF !important;
+}
+
+@media (max-width: 990px) {
+     .labelF {
+          top: 1rem;
+          left: 4.5rem;
+     }
+
+     .labelM {
+          bottom: 1rem;
+          right: 4.5rem;
+     }
+}
+
+/* Model Stylings */

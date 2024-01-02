@@ -1,0 +1,14 @@
+.row2Div {
+     border: 1px solid #e0e0e0;
+     background-color: #FFFFFF;
+     border-radius: .25rem;
+}
+
+.row2ColHead {
+     font-weight: 700;
+     font-size: 1.3rem;
+}
+
+.barGraph {
+     height: 20rem;
+}

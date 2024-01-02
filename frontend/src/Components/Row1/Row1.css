@@ -1,0 +1,43 @@
+.gridDiv {
+     border: 1px solid #e0e0e0;
+     background-color: #FFFFFF;
+     border-radius: .25rem;
+}
+
+.gridSys {
+     font-family: 'Lato', sans-serif !important;
+}
+
+.empHead {
+     font-weight: 600;
+}
+
+.empName {
+     font-size: .85rem;
+     color: grey;
+     font-weight: 600;
+}
+
+.css-onolb3 {
+     background-color: #f6f7fa !important;
+     /* background-color: #F9F3FF !important; */
+}
+
+.empNo {
+     font-weight: 700 !important;
+}
+
+.dumpy {
+     height: 7.3rem;
+}
+
+.incP {
+     font-size: .8rem !important;
+     color: #50834a;
+}
+
+.bckg {
+     background-color: #d4f7d0 !important;
+     border-radius: 1rem;
+     padding: 0rem .4rem .1rem .4rem;
+}

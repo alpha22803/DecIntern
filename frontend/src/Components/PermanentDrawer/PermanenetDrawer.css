@@ -1,0 +1,66 @@
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+     box-shadow: 10px 0px 10px -5px rgba(27, 27, 27, 0.1) !important;
+}
+
+.css-6iz4mj-MuiButtonBase-root-MuiIconButton-root {
+     padding: 0rem !important;
+     position: relative !important;
+}
+
+.css-10hburv-MuiTypography-root {
+     font-family: 'Lato', sans-serif !important;
+     font-weight: 400;
+     font-size: .95rem !important;
+}
+
+.css-cveggr-MuiListItemIcon-root {
+     display: block !important;
+     min-width: 0 !important;
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+     display: flex !important;
+     align-items: center !important;
+}
+
+.css-10hburv-MuiTypography-root {
+     margin-left: 1rem !important;
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root {
+     padding: 0 0 0 1.5rem !important;
+}
+
+.active {
+     background-color: rgb(241, 241, 241) !important;
+     color: #5a33eb !important;
+     border-left: 3px solid #5a33eb;
+}
+
+.activeIcon {
+     color: #5a33eb !important;
+}
+
+.activeText .MuiTypography-root {
+     font-weight: 600 !important;
+}
+
+.iconsDash {
+     font-size: 1.7rem !important;
+     font-weight: lighter;
+}
+
+.empIcon {
+     font-size: 1.5rem;
+     margin-top: 1.2rem;
+     margin-left: .1rem;
+}
+
+@media (max-width: 990px) {
+
+     .row2Div,
+     .row3Div,
+     .gridDiv {
+          width: 25.8rem !important;
+     }
+}
